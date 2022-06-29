@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Brendon.👋
 
 - 🔭 Sou Estudante de Front-End
-- 🌱 Estudando React JS e Java Script
+- 🌱 Estudando React JS e Java Script, especializando em CSS.
 - 😄 Meus pronomes são: ele/dele
 - ⚡ Fun fact: Comecei  a programar por conta da série Mr.Robot
 <br>
